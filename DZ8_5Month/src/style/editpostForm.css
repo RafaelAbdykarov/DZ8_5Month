@@ -1,0 +1,22 @@
+.edit-post-form {
+    max-width: 300px;
+    margin: 0 auto;
+}
+
+input, textarea, button {
+    margin-bottom: 10px;
+    width: 100%;
+    padding: 10px;
+}
+
+button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
